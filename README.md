@@ -15,8 +15,13 @@ My curated collection of LeetCode DSA solutions with detailed explanations. Docu
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SafinaKhatun/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/SafinaKhatun/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SafinaKhatun/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SafinaKhatun/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
